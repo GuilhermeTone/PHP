@@ -8,4 +8,6 @@
 
 	echo "ih rapaz sla bixo";
 
+	echo "algo não legal"
+
 ?>
